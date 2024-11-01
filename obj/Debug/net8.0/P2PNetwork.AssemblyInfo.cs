@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P2PNetwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0902fc9dbcace8c753d055dd601488e9507c30d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94523d72961e7686ba234c0d1ae5c03bcc13485f")]
 [assembly: System.Reflection.AssemblyProductAttribute("P2PNetwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P2PNetwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
