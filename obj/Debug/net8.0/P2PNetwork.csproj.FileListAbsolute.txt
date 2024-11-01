@@ -1,0 +1,15 @@
+C:\Users\kazuo\Documents\P2PNetwork\bin\Debug\net8.0\P2PNetwork.exe
+C:\Users\kazuo\Documents\P2PNetwork\bin\Debug\net8.0\P2PNetwork.deps.json
+C:\Users\kazuo\Documents\P2PNetwork\bin\Debug\net8.0\P2PNetwork.runtimeconfig.json
+C:\Users\kazuo\Documents\P2PNetwork\bin\Debug\net8.0\P2PNetwork.dll
+C:\Users\kazuo\Documents\P2PNetwork\bin\Debug\net8.0\P2PNetwork.pdb
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.AssemblyInfoInputs.cache
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.AssemblyInfo.cs
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.csproj.CoreCompileInputs.cache
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.sourcelink.json
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.dll
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\refint\P2PNetwork.dll
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.pdb
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\P2PNetwork.genruntimeconfig.cache
+C:\Users\kazuo\Documents\P2PNetwork\obj\Debug\net8.0\ref\P2PNetwork.dll
