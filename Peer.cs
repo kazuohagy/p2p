@@ -2,13 +2,13 @@ using System.Net.Sockets;
 using System.Text;
 
 public class Peer {
-    public TopClient client;
+    public TcpClient client;
 
     public string address;
 
     public List<string> Blockchain = new List<string>();
 
-    public Peer(TopClient client, string address) {
+    public Peer(TcpClient client, string address) {
         this.client = client;
         this.address = address;
     }
